@@ -1,6 +1,8 @@
 # 한국 무역보험 빅데이터 분석 프로젝트 .gitignore
 
 project.txt
+report.md
+report_example.txt
 
 # ====================
 # 🚫 대용량 데이터 파일
