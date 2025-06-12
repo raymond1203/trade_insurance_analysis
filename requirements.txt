@@ -1,0 +1,22 @@
+# 데이터 분석 및 시각화
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+# 시계열/통계 분석
+statsmodels
+scipy
+
+# 머신러닝
+scikit-learn
+xgboost
+lightgbm
+
+# Jupyter 노트북
+jupyter
+
+# 기타(필요시)
+tqdm
+pathlib2 
